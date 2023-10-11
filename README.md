@@ -1,2 +1,2 @@
 # My-models
-Here I tried to fine-tune the SGDClassifier on the breast cancer dataset from scikit-learn to achieve the results as satisfying as the ones obtained using more sophisticated algorithms.
+Here I deposit my models I have implemented on the breast cancer dataset from scikit-learn. In the two published jupyter notebooks I represent my models based on SGDClassifier (fine-tuned to achieve the results as satisfying as the ones obtained using more sophisticated algorithms) and Multilayer Perceptron. I consider these as my sandbox, and I am going to exploit my skills to build models on real-world data in future.
